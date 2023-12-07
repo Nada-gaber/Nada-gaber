@@ -2,7 +2,7 @@
 # Hi there 👋, 
 # I am Nada <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 
-## About Me: :alien:
+## About Me: 👽
 
 I am an undergrad student at a business administration university.
 I enjoy doing apps related to lifestyles to help people enjoy their life in simple steps
