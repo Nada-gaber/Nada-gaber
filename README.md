@@ -11,7 +11,7 @@
 
 ## About Me: 👽
 
-I am an undergrad student at a business administration university.
+I am an undergraduate student at Commerce University.
 I enjoy doing apps related to lifestyles to help people enjoy their life in simple steps
 
 I love learning new technologies and contributing to open source and recently enjoying problem-solving as well.
