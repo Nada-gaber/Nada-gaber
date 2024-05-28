@@ -2,7 +2,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nada-gaber&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-## More about me :shipit:
+## More about me :
 
 - 🌱 I’m currently building apps with Flutter
 - 👯 I’m looking to collaborate on new projects to improve my coding skills
